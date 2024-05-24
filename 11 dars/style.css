@@ -1,0 +1,99 @@
+body{
+    background-color: beige;
+}
+#russian{
+    width: 180px;
+    height: 40px;
+    border-top: 40px solid white;
+    border-bottom: 40px solid #d52b1e;
+    background-color: #0039a6;
+}
+
+#avstriya{
+    width: 125px;
+    height: 25px;
+    border-top: 25px solid red ;
+    border-bottom: 25px solid red ;
+}
+
+#polsha{
+    width:160px;
+    height: 50px;
+    border-top:50px solid #ffffff ;
+    border-bottom:50px solid #d4213d
+
+}
+
+#litva{
+    width:200px;
+    height: 120px;
+    border-top: 40px solid yellow ;
+    border-bottom: 40px solid red;
+    background-color: green;
+    box-sizing: border-box;
+}
+
+#latviya{
+    width:300px;
+    height: 150px;
+    border: solid #9d2235 ;
+    border-width: 60px 0;
+    background-color:#fff;
+    box-sizing:border-box;
+}
+ #italiya{
+    width: 100px;
+    height: 180px;
+    border-left: 100px solid green;
+    border-right: 100px solid red;
+    background-color: #fff;
+
+ }
+ #chexiya{
+    height: 0;
+    width: 150px;
+    border-top: solid 100px #fff;
+    border-bottom: solid 100px #d7141a;
+    border-left: solid 150px #11457e;
+ }
+
+ #armaniston{
+    height:25px;
+    width:125px;
+    border-top: 25px solid red;
+    border-bottom: 25px solid yellow;
+    background-color:blue;
+    
+    
+ }
+  /*margin padding border*/
+  #mpb{
+    border: 1px solid red;
+    margin: 10px 15px 20px 25px;
+    margin-bottom: 10px;
+    padding: 10px 15px 20px 25px;
+    line-height: 20px;
+    align-items: left;
+    
+
+  }
+  .ggg{
+    border: 1px solid red;
+    margin: 10px;
+    padding: 10px;
+  }
+
+  p{
+   animation:;
+   letter-spacing: 2px;
+   line-height: 15px;
+   text-align: right;
+   text-align: justify;
+   text-decoration: overline;
+   text-decoration: underline;
+   text-decoration: underline dotted;
+   text-indent: 5px;
+   text-indent: 1.5em;
+   text-transform: capitalize;
+   text-transform: uppercase;
+  }
